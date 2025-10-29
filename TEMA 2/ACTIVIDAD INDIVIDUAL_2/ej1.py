@@ -1,5 +1,5 @@
 import time as t
-
+  
 try:
     n = int(input("Introduce un numero entre 5 y 50: "))
 except ValueError as e:
