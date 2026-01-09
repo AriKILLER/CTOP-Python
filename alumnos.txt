@@ -1,0 +1,3 @@
+Nombre: Arianna - Nota: 9
+Nombre: Hugo - Nota: 7
+Nombre: Jaime - Nota: 10

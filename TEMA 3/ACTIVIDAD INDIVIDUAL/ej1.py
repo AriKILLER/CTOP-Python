@@ -1,6 +1,7 @@
 alumno1 = {"nombre": "Arianna", "edad": 20, "estudiante": True}
 alumno2 = {"nombre": "Bruno", "edad": 26, "estudiante": False}
 alumno3 = {"nombre": "Carla", "edad": 17, "estudiante": True}
+alumno3["curso"] = "2B"
 
 def edad(alumno):
     if alumno["edad"] <18:
