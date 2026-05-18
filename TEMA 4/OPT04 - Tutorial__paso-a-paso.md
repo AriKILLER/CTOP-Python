@@ -1,8 +1,6 @@
 
 TUTORIAL – ESTRUCTURAS DE DATOS EN PYTHON (CLI)
 =================================================
-
-
 EJERCICIO 1 – Listas
 -------------------
 Crea una lista con 5 números enteros:

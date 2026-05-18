@@ -88,7 +88,3 @@ gestion.insertar_producto(p2)
 gestion.insertar_alimenticio(pa1)
 gestion.obtener_productos()
 gestion.cerrar()
-    
-
-    
-

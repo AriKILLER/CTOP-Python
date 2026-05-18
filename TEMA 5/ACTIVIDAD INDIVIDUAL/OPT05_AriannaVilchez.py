@@ -60,3 +60,4 @@ def obtener_libros():
 
 insertar_libro(libro1)
 obtener_libros()
+conexion.close()
